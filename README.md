@@ -13,11 +13,8 @@
 ![](https://github-readme-stats.shion.dev/api?username=areeba-sultan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=areeba-sultan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=areeba-sultan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=areeba-sultan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 🐍 Contribution Snake
 
